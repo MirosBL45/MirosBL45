@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **more and more knowledge.**
 
-- 👯 I’m looking to collaborate on **projects that includes ReactJS, and generally everything for FrontEnd Web Development.**
+- 👯 I’m looking to collaborate on **projects that includes ReactJS, JavaScript and generally everything for FrontEnd Web Development.**
 
 - 📫 How to reach me **jovicmiroslav88@gmail.com**
 
