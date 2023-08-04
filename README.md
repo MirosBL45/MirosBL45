@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Miroslav Jovic</h1>
-<h3 align="center">A persistent and passionate Frontend developer from Serbia</h3>
+<h3 align="center">Dedicated Frontend Developer, constantly exploring new trends and techniques to create exceptional web solutions</h3>
 
 - 🔭 I’m currently working on **more and more knowledge.**
 
