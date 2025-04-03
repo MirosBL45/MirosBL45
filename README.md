@@ -1,5 +1,23 @@
 <h1 align="center">Hi 👋, I'm Miroslav Jovic</h1>
 <h3 align="center">Frontend Developer focused on performance and design</h3>
+<h3 align="center">🚀 About Me</h3>
+<p align="left"></p>
+👋 Hey there!
+I'm Miroslav, a <b>Frontend Developer</b> who enjoys turning ideas into smooth, interactive web experiences. I love working with <b>React, Next.js, and JavaScript</b>, and I'm always up for a challenge—whether it's optimizing performance, improving UX, or experimenting with new technologies.
+</br></br>
+
+💡 I like to break down complex problems into smaller ones and tackle them <b>step by step</b>. Good preparation is half the job done, and I always think about the root cause of issues to <b>prevent them from happening again</b>.
+
+🛠️ <b>Tech I work with:</b>
+
+<b>Frontend:</b> React, Next.js, TypeScript, JavaScript, HTML, CSS (Sass, Tailwind, Styled-components)
+
+<b>Backend:</b> MongoDB, Firebase, Strapi
+
+<b>Tools & Libraries:</b> Zustand, React Hook Form, Framer Motion, SWR, Git, Postman, Figma
+
+🚀 Open to collaboration, always learning, and happy to share knowledge. Feel free to check out my repos or drop a message!
+</br></br>
 
 - 👯 I’m looking to collaborate on **React and Next.js projects focused on building scalable web applications.**
 
