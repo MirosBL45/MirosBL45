@@ -23,13 +23,9 @@ I'm Miroslav, a <b>Frontend Developer</b> who enjoys turning ideas into smooth, 
 
 - 👨‍💻 All of my projects are available at [https://miroslavjovic.com/portfolio](https://miroslavjovic.com/portfolio)
 
-- 📝 I regularly write articles on [https://miroslavjovic.com/blog](https://miroslavjovic.com/blog)
-
 - 💬 Ask me about **building responsive web applications with React and Next.js**
 
 - 📫 How to reach me **jovicmiroslav88@gmail.com**
-
-- 📄 Know about my experiences [https://miroslavjovic.com](https://miroslavjovic.com)
 
 - ⚡ Fun fact **I turn coffee into code, and bugs into features.**
 
