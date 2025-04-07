@@ -21,8 +21,6 @@ I'm Miroslav, a <b>Frontend Developer</b> who enjoys turning ideas into smooth, 
 
 - 👯 I’m looking to collaborate on **React and Next.js projects focused on building scalable web applications.**
 
-- 👨‍💻 All of my projects are available at [https://miroslavjovic.com/portfolio](https://miroslavjovic.com/portfolio)
-
 - 💬 Ask me about **building responsive web applications with React and Next.js**
 
 - 📫 How to reach me **jovicmiroslav88@gmail.com**
