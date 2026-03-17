@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Miroslav Jovic</h1>
+<h1 align="center">Hi 👋, I'm Miroslav Jović</h1>
 <h3 align="center">Frontend Developer focused on performance and design</h3>
 <h3 align="center">🚀 About Me</h3>
 <p align="left"></p>
